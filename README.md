@@ -1,7 +1,7 @@
 ## 🚀 Welcome to my zone
 
 Here is some personal information about me:
-- 👋 Hi, I’m yanglei
+- 👋 Hi, I’m 杨磊
 - 🔭 I'm currently working in WuHan
 - 🌱 I’m currently learning && using React
 - 📫 How to reach me: yl.code@qq.com
