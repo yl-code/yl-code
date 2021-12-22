@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 <!-- <code><img height="20" src="https://nextjs.org/static/favicon/favicon-32x32.png"></code> -->
 <br/>
 
-## 🌴 Statistics
+## 🌴 Stats
 [![Yanglei's GitHub stats](https://github-readme-stats.vercel.app/api?username=yl-code&card_width=400&include_all_commits=true&count_private=true&show_icons=true&theme=cobalt)](https://github.com/yl-code)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yl-code&layout=compact&card_width=445)](https://github.com/yl-code)
