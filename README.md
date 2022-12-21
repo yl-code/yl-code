@@ -31,4 +31,4 @@ You can click the Preview link to take a look at your changes.
 
 [![Yanglei's GitHub stats](https://github-readme-stats.vercel.app/api?username=yl-code&card_width=400&include_all_commits=false&count_private=true&show_icons=true&theme=cobalt)](https://github.com/yl-code)
 
-[![Yanglei's Activity Graph](https://activity-graph.herokuapp.com/graph?username=yl-code&theme=dracula)](https://github.com/yl-code)
+<!-- [![Yanglei's Activity Graph](https://activity-graph.herokuapp.com/graph?username=yl-code&theme=dracula)](https://github.com/yl-code) -->
