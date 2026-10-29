@@ -1,10 +1,10 @@
 ## 🚀 Welcome to my zone
 
 Here is some personal information about me:  
-
+<!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=18&color=79EDB5&height=50&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%E6%9D%A8%E5%90%8C%E5%AD%A6;%F0%9F%94%AD+I'm+currently+working+in+WuHan;%F0%9F%8C%B1+I%E2%80%99m+currently+learning+%26%26+using+React;%F0%9F%93%AB+How+to+reach+me%3A+yl.code%40qq.com)](https://github.com/yl-code)  
 
-<!--
+
 👋 Hi, I’m 杨同学  
 🔭 I'm currently working in WuHan  
 🌱 I’m currently learning && using React  
